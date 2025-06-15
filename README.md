@@ -59,8 +59,8 @@ Once the app is running, you can:
 
 ## Contributing
 
-We welcome contributions! If you're interested in helping improve the Ripple app, please see our CONTRIBUTING.md for guidelines on how to submit pull requests, report issues, and get involved.
+We welcome contributions! If you're interested in helping improve the Ripple app, please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to submit pull requests, report issues, and get involved.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
