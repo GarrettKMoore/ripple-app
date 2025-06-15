@@ -1,0 +1,87 @@
+# Dependency directories
+node_modules/
+yarn-debug.log
+yarn-error.log
+.pnp/
+.pnp.js
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env # Catch-all for other .env files
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+logs/
+
+# MacOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Build/output directories for both web and mobile
+build/
+dist/
+coverage/
+
+# IDE and Editor files
+.vscode/ # VS Code settings
+.idea/   # JetBrains IDEs
+*.sublime-project
+*.sublime-workspace
+
+# React Native specific ignores
+# Android
+android/build/
+android/app/build/
+android/.gradle/
+android/local.properties
+android/.idea/
+android/.cxx/
+android/gradle/
+android/app/.idea/
+android/app/.cxx/
+android/app/src/debug/
+android/app/src/release/
+
+# iOS
+ios/build/
+ios/Pods/
+ios/.xccheckout
+ios/project.xcworkspace/
+ios/xcuserdata/
+ios/*.xcarchive
+ios/*.ipa
+ios/DerivedData/
+
+# Metro Bundler cache
+.yarn/cache/
+
+# Expo specific (if using Expo for RN)
+.expo/
+*.jks # Android Keystores
+
+# Crash reporting and analytics (if configured)
+*.code-workspace
+*.json.patch
+*.map
+*.swp
+*.bak
+
+# Other common ignores
+*.iml # IntelliJ IDEA module files
+.eslintcache
