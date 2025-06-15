@@ -2,7 +2,7 @@
 
 We're thrilled you're interested in contributing to the Ripple App! Your contributions help us make waves of kindness even bigger. This document outlines the guidelines for contributing to this project.
 
-Please note that this project is released with a Code of Conduct. By participating in this project, you agree to abide by its terms.
+Please note that this project is released with a [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
 
 ## How Can I Contribute?
 
@@ -18,7 +18,7 @@ There are several ways you can contribute to the Ripple App:
 
 ## Getting Started
 
-To get your development environment set up, please refer to the Installation section in the main `README.md` file. It contains detailed instructions on how to clone the repository, install dependencies, and run the app locally.
+To get your development environment set up, please refer to the [Installation](README.md/#getting-started) section in the main `README.md` file. It contains detailed instructions on how to clone the repository, install dependencies, and run the app locally.
 
 ## Reporting Bugs
 
